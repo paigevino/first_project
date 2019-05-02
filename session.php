@@ -1,6 +1,6 @@
 <?php
 session_start();
-?>
+abcdefvlmrk;knopqrstughij
 <html>
 <form action="text.php" method="post">
 <input type="text" name="username"/><br>
